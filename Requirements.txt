@@ -1,0 +1,9 @@
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+pip install SpeechRecognition
+pip install python-docx
+brew install portaudio
+pip install pyaudio
+
+pip install py3-tts
+pip install pyobjc
+
